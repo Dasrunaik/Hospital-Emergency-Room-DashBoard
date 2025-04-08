@@ -1,6 +1,10 @@
  
  🏥 Hospital Emergency Room Dashboard — Power BI Project
-Excited to share my latest Power BI project: a Hospital Emergency Room Dashboard designed to optimize patient care and operational efficiency in a high-stakes environment. This project highlights the critical role of data analytics in healthcare.
+
+ 
+ A Hospital Emergency Room Dashboard designed to optimize patient care and operational efficiency in a high-stakes environment. 
+ 
+ This project highlights the critical role of data analytics in healthcare.
 
 🔧 Project Highlights:
 
